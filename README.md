@@ -9,3 +9,5 @@ This is an OOP project where you define the following four classes:
 
 Defintions are provided in the project prompt.
 
+There are no required packages or data for this project.
+
