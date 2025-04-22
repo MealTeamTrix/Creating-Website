@@ -1,4 +1,4 @@
-# Project Name
+## Building Wedding Planning Software
 This is the Building Wedding Planning Software project from Datacamp. 
 
 This is an OOP project where you define the following four classes:
